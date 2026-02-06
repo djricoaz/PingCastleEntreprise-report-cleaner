@@ -4,6 +4,11 @@
 A maintenance tool for **PingCastle Enterprise** SQL databases running for years with frequent scans (e.g., weekly).  
 It helps **reduce database size** while keeping a long-term trace of security posture.
 
+## Demo Video
+
+🎥 https://youtu.be/no3rVVSLrfs
+
+
 ## Problem / Use case
 
 Many customers run PingCastle scans weekly for 5–6+ years. This creates a large number of reports in the database.
