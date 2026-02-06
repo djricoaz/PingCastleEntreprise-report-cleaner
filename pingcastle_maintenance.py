@@ -5,7 +5,7 @@
 PingCastle Database Maintenance
 Monthly Retention Cleanup (based on report Generation / "Last report")
 
-CUSTOMER NEED
+Main :
 - Weekly scans for years
 - Keep ALL reports for the last N days (e.g. 1 year)
 - For reports OLDER than N days: keep ONLY ONE report per month per domain
@@ -1427,3 +1427,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
