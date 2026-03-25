@@ -1,4 +1,3 @@
-# PingCastleEntreprise-report-cleaner
 # PingCastle Enterprise Report Cleaner
 
 A maintenance tool for **PingCastle Enterprise** SQL databases running for years with frequent scans (e.g., weekly).  
