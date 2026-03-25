@@ -8,7 +8,7 @@ It helps **reduce database size** while keeping a long-term trace of security po
 
 [![Watch the demo](https://img.youtube.com/vi/no3rVVSLrfs/hqdefault.jpg)](https://youtu.be/no3rVVSLrfs)
 
-## NOT officialy supported by Netwrix 
+## NOT officialy supported by Netwrix use at you own risk. 
 
 ## Problem / Use case
 
