@@ -66,18 +66,6 @@ This keeps meaningful historical monthly snapshots while significantly reducing 
    - Deletes the report rows
    - Updates `Domains.FirstReportID / LastReportID / NumberOfReport` to remain consistent
 
-## Repository layout
-
-.
-├── src
-│ ├── pingcastle_maintenance.py
-│ ├── PingCastle-Maintenance.ps1
-│ ├── generate_fakeport_synthetic_pingcastle.py (optional)
-│ └── template.xml (optional)
-├── examples
-│ └── ... (optional test datasets)
-└── README.md
----
 
 ## Requirements
 
